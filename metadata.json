@@ -1,0 +1,6 @@
+{
+  "name": "Angular + Generative AI Resume Builder & PDF Exporter",
+  "description": "Professional Angular and Generative AI Engineer resume document with technical highlights for RAG pipelines, prompt engineering, and local model fine-tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
